@@ -1,0 +1,5 @@
+{
+  "dbURI": "mongodb uri",
+  "jwtsecret": "secret",
+  "StripeAPIKey": "YOUR STRIPE SECRET API KEY"
+}
